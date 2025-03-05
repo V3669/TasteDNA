@@ -1,0 +1,317 @@
+[
+    {
+        "name": "Butter Chicken",
+        "tags": ["Indian", "Curry", "Non-Vegetarian"],
+        "spicy": 0.6,
+        "sweet": 0.3,
+        "creamy": 0.9,
+        "description": "Rich and creamy curry with tender chicken pieces",
+        "cuisine": "Indian"
+    },
+    {
+        "name": "Margherita Pizza",
+        "tags": ["Italian", "Vegetarian", "Comfort Food"],
+        "spicy": 0.2,
+        "sweet": 0.3,
+        "creamy": 0.7,
+        "description": "Classic pizza with tomato sauce, mozzarella, and basil",
+        "cuisine": "Italian"
+    },
+    {
+        "name": "Pad Thai",
+        "tags": ["Thai", "Noodles", "Street Food"],
+        "spicy": 0.7,
+        "sweet": 0.5,
+        "creamy": 0.3,
+        "description": "Stir-fried rice noodles with tamarind sauce and peanuts",
+        "cuisine": "Thai"
+    },
+    {
+        "name": "Sushi Roll",
+        "tags": ["Japanese", "Seafood", "Fresh"],
+        "spicy": 0.3,
+        "sweet": 0.2,
+        "creamy": 0.4,
+        "description": "Fresh fish and vegetables wrapped in seasoned rice and nori",
+        "cuisine": "Japanese"
+    },
+    {
+        "name": "Chicken Tacos",
+        "tags": ["Mexican", "Street Food", "Non-Vegetarian","Chicken"],
+        "spicy": 0.8,
+        "sweet": 0.1,
+        "creamy": 0.5,
+        "description": "Seasoned ground chicken in corn tortillas with fresh toppings",
+        "cuisine": "Mexican"
+    },
+    {
+        "name": "Chicken Biryani",
+        "tags": ["Indian", "Rice", "Non-Vegetarian"],
+        "spicy": 0.8,
+        "sweet": 0.2,
+        "creamy": 0.4,
+        "description": "Fragrant rice dish with spiced chicken and aromatic spices",
+        "cuisine": "Indian"
+    },
+    {
+        "name": "Greek Salad",
+        "tags": ["Greek", "Vegetarian", "Fresh"],
+        "spicy": 0.1,
+        "sweet": 0.2,
+        "creamy": 0.3,
+        "description": "Fresh vegetables with feta cheese and olive oil dressing",
+        "cuisine": "Greek"
+    },
+    {
+        "name": "Ramen",
+        "tags": ["Japanese", "Soup", "Comfort Food"],
+        "spicy": 0.4,
+        "sweet": 0.3,
+        "creamy": 0.6,
+        "description": "Noodle soup with rich broth, meat, and vegetables",
+        "cuisine": "Japanese"
+    },
+    {
+        "name": "Tiramisu",
+        "tags": ["Italian", "Dessert", "Coffee"],
+        "spicy": 0.0,
+        "sweet": 0.8,
+        "creamy": 0.9,
+        "description": "Coffee-flavored dessert with mascarpone and cocoa",
+        "cuisine": "Italian"
+    },
+    {
+        "name": "Pho",
+        "tags": ["Vietnamese", "Soup", "Comfort Food"],
+        "spicy": 0.4,
+        "sweet": 0.2,
+        "creamy": 0.3,
+        "description": "Vietnamese noodle soup with herbs and meat",
+        "cuisine": "Vietnamese"
+    },
+    {
+        "name": "Falafel Wrap",
+        "tags": ["Middle Eastern", "Vegetarian", "Street Food"],
+        "spicy": 0.3,
+        "sweet": 0.1,
+        "creamy": 0.5,
+        "description": "Crispy chickpea patties with tahini sauce in pita bread",
+        "cuisine": "Middle Eastern"
+    },
+    {
+        "name": "Kung Pao Chicken",
+        "tags": ["Chinese", "Spicy", "Non-Vegetarian"],
+        "spicy": 0.9,
+        "sweet": 0.3,
+        "creamy": 0.1,
+        "description": "Spicy diced chicken with peanuts and vegetables",
+        "cuisine": "Chinese"
+    },
+    {
+        "name": "Fish and Chips",
+        "tags": ["British", "Seafood", "Comfort Food"],
+        "spicy": 0.1,
+        "sweet": 0.0,
+        "creamy": 0.3,
+        "description": "Crispy battered fish with thick-cut fries",
+        "cuisine": "British"
+    },
+    {
+        "name": "Palak Paneer",
+        "tags": ["Indian", "Vegetarian", "Healthy"],
+        "spicy": 0.5,
+        "sweet": 0.1,
+        "creamy": 0.7,
+        "description": "Cottage cheese cubes in spiced spinach gravy",
+        "cuisine": "Indian"
+    },
+    {
+        "name": "Caesar Salad",
+        "tags": ["American", "Salad", "Classic"],
+        "spicy": 0.1,
+        "sweet": 0.1,
+        "creamy": 0.8,
+        "description": "Romaine lettuce with creamy dressing and croutons",
+        "cuisine": "American"
+    },
+    {
+        "name": "Paella",
+        "tags": ["Spanish", "Seafood", "Rice"],
+        "spicy": 0.4,
+        "sweet": 0.1,
+        "creamy": 0.3,
+        "description": "Saffron rice with seafood, meat, and vegetables",
+        "cuisine": "Spanish"
+    },
+    {
+        "name": "Miso Soup",
+        "tags": ["Japanese", "Soup", "Healthy"],
+        "spicy": 0.1,
+        "sweet": 0.2,
+        "creamy": 0.3,
+        "description": "Traditional Japanese soup with tofu and seaweed",
+        "cuisine": "Japanese"
+    },
+    {
+        "name": "Chicken Shawarma",
+        "tags": ["Middle Eastern", "Street Food", "Non-Vegetarian"],
+        "spicy": 0.6,
+        "sweet": 0.1,
+        "creamy": 0.5,
+        "description": "Grilled spiced chicken wrapped in pita with garlic sauce",
+        "cuisine": "Middle Eastern"
+    },
+    {
+        "name": "Pad See Ew",
+        "tags": ["Thai", "Noodles", "Street Food"],
+        "spicy": 0.5,
+        "sweet": 0.4,
+        "creamy": 0.2,
+        "description": "Stir-fried wide rice noodles with soy sauce and vegetables",
+        "cuisine": "Thai"
+    },
+    {
+        "name": "Gelato",
+        "tags": ["Italian", "Dessert", "Cold"],
+        "spicy": 0.0,
+        "sweet": 0.9,
+        "creamy": 0.9,
+        "description": "Italian-style ice cream with intense flavors",
+        "cuisine": "Italian"
+    },
+    {
+        "name": "Bibimbap",
+        "tags": ["Korean", "Rice", "Healthy"],
+        "spicy": 0.6,
+        "sweet": 0.3,
+        "creamy": 0.4,
+        "description": "Rice bowl with vegetables, meat, and spicy gochujang sauce",
+        "cuisine": "Korean"
+    },
+    {
+        "name": "Moussaka",
+        "tags": ["Greek", "Casserole", "Non-Vegetarian"],
+        "spicy": 0.3,
+        "sweet": 0.2,
+        "creamy": 0.8,
+        "description": "Layered eggplant and meat casserole with béchamel sauce",
+        "cuisine": "Greek"
+    },
+    {
+        "name": "Tom Yum Soup",
+        "tags": ["Thai", "Soup", "Spicy"],
+        "spicy": 0.9,
+        "sweet": 0.3,
+        "creamy": 0.2,
+        "description": "Hot and sour soup with shrimp and aromatics",
+        "cuisine": "Thai"
+    },
+    {
+        "name": "Chocolate Croissant",
+        "tags": ["French", "Pastry", "Breakfast"],
+        "spicy": 0.0,
+        "sweet": 0.7,
+        "creamy": 0.6,
+        "description": "Flaky pastry filled with rich chocolate",
+        "cuisine": "French"
+    },
+    {
+        "name": "Dim Sum",
+        "tags": ["Chinese", "Dumplings", "Brunch"],
+        "spicy": 0.2,
+        "sweet": 0.3,
+        "creamy": 0.4,
+        "description": "Assorted steamed dumplings with various fillings",
+        "cuisine": "Chinese"
+    },
+    {
+        "name": "Mango Sticky Rice",
+        "description": "Sweet Thai dessert with ripe mango and coconut sticky rice",
+        "cuisine": "Thai",
+        "tags": ["dessert", "sweet", "vegetarian"],
+        "spicy": 0.0,
+        "sweet": 0.9,
+        "creamy": 0.7
+    },
+    {
+        "name": "Pad Thai",
+        "description": "Classic Thai stir-fried rice noodles with shrimp, tofu, and peanuts",
+        "cuisine": "Thai",
+        "tags": ["noodles", "seafood", "vegetarian-option"],
+        "spicy": 0.3,
+        "sweet": 0.4,
+        "creamy": 0.2
+    },
+    {
+        "name": "Sushi Roll",
+        "description": "Fresh sushi roll with raw fish, rice, and seaweed",
+        "cuisine": "Japanese",
+        "tags": ["seafood", "raw", "healthy"],
+        "spicy": 0.1,
+        "sweet": 0.1,
+        "creamy": 0.2
+    },
+    {
+        "name": "Ramen",
+        "description": "Japanese noodle soup with rich broth and toppings",
+        "cuisine": "Japanese",
+        "tags": ["noodles", "soup", "comfort-food"],
+        "spicy": 0.4,
+        "sweet": 0.1,
+        "creamy": 0.3
+    },
+    {
+        "name": "Tacos",
+        "description": "Mexican street tacos with meat and fresh toppings",
+        "cuisine": "Mexican",
+        "tags": ["street-food", "spicy", "meat"],
+        "spicy": 0.6,
+        "sweet": 0.1,
+        "creamy": 0.2
+    },
+    {
+        "name": "Guacamole",
+        "description": "Fresh avocado dip with lime and spices",
+        "cuisine": "Mexican",
+        "tags": ["dip", "vegetarian", "healthy"],
+        "spicy": 0.2,
+        "sweet": 0.0,
+        "creamy": 0.8
+    },
+    {
+        "name": "Pizza Margherita",
+        "description": "Classic Italian pizza with tomato sauce and mozzarella",
+        "cuisine": "Italian",
+        "tags": ["pizza", "vegetarian", "comfort-food"],
+        "spicy": 0.1,
+        "sweet": 0.1,
+        "creamy": 0.4
+    },
+    {
+        "name": "Pasta Carbonara",
+        "description": "Creamy Italian pasta with eggs and pancetta",
+        "cuisine": "Italian",
+        "tags": ["pasta", "creamy", "comfort-food"],
+        "spicy": 0.0,
+        "sweet": 0.0,
+        "creamy": 0.9
+    },
+    {
+        "name": "Greek Salad",
+        "description": "Fresh Mediterranean salad with feta and olives",
+        "cuisine": "Greek",
+        "tags": ["salad", "vegetarian", "healthy"],
+        "spicy": 0.0,
+        "sweet": 0.1,
+        "creamy": 0.2
+    },
+    {
+        "name": "Moussaka",
+        "description": "Greek layered eggplant and meat casserole",
+        "cuisine": "Greek",
+        "tags": ["casserole", "meat", "vegetarian-option"],
+        "spicy": 0.2,
+        "sweet": 0.1,
+        "creamy": 0.6
+    }
+]
