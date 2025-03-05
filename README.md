@@ -5,9 +5,11 @@ A smart food recommendation system designed to tackle choice paralysis by helpin
 ## Screenshots
 
 ![TasteDNA Interface](screenshots/interface.png)
+
 *The main interface showing the swipeable dish cards and interactive buttons*
 
 ![Taste Profile](screenshots/profile.png)
+
 *Your personalized taste profile and recommendations*
 
 ## What is TasteDNA?
